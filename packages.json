@@ -6,6 +6,7 @@
     "unity": "2021.3",
     "keywords": ["key X", "key Y", "key Z"],
     "category": "Essentials",
-    "dependencies": {}
-    "url":"https://github.com/G9host/Empty-Project.git"
+    "dependencies": {
+	"com.ddz.empty-project":"https://github.com/G9host/Empty-Project.git",
+	}
 }
