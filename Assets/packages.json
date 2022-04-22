@@ -1,0 +1,11 @@
+{
+  "name": "com.ddz.empty-project",
+  "version": "1.0.0",
+  "displayName": "EmptyProject",
+  "description": "Unity package for empty project.",
+  "unity": "2021.3",
+  "unityRelease": "1f1",
+  "dependencies": {},
+  "url":"https://github.com/G9host/Empty-Project.git"
+ 
+}
