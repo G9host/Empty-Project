@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Unity package for empty project.",
     "unity": "2021.3",
-    "keywords": ["key X", "key Y", "key Z"],
+    "keywords": ["GameEssentials", "Helper", "Extra"],
     "category": "Essentials",
     "dependencies": {
 	"com.ddz.empty-project":"https://github.com/G9host/Empty-Project.git",
